@@ -37,4 +37,3 @@ file (GLOB Sources
 
 # Build the library.
 add_library(Box2D ${Sources})
-target_link_libraries(Box2D Box2D)
